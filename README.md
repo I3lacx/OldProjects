@@ -9,3 +9,4 @@ So here is a quick summary of what is in there:
 What is not in there:
 - Code from Tutorials I have followed where most of the code is mostly from other sources
 - as example: "Object Detection using tensorflow" from sentdex
+- Code not related to Python or Neural Networks
